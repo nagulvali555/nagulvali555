@@ -5,7 +5,6 @@
 - 💟 I'm interested in infrastructure automation, DevOps Practices, Cloud.
 - 🐱 I’m contributing back to the beautiful Open Source software world.
 - ⚡ Fun fact: I love to run 🏃
-- 📥 How to reach me: nagulvali555@gmail.com
 
 ### Connect with me:
 <a href="https://discordapp.com/users/nagulvali#6796">
@@ -20,6 +19,10 @@
 <a href="https://open.spotify.com/user/tcjhksj0w7y439glcogsb2ns8">
   <img align="left" alt="nagulvali's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>  
+<a href="nagulvali555@gmail.com">
+  <img align="left" alt="nagulvali's mail" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+</a> 
+
 
 <br />
 
