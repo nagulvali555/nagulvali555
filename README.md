@@ -17,10 +17,6 @@
 <a href="https://www.linkedin.com/in/nagulvali/">
   <img align="left" alt="nagulvali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/tcjhksj0w7y439glcogsb2ns8">
-  <img align="left" alt="nagulvali's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 
 <br />
 
